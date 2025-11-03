@@ -3,7 +3,7 @@ Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vonta
 
 # Desafio de Xadrez - MateCheck
 
-Bem-vindo ao desafio de Xadrez da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas.
+Bem-vindo ao **desafio de Xadrez** da MateCheck! Este projeto tem como objetivo testar e determinar os limites de utilização do código dentro do jogo utilizando estruturas de repetição e funções avançadas.
 
 ## Níveis do Desafio
 
